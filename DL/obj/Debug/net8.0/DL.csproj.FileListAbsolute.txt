@@ -1,0 +1,15 @@
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\bin\Debug\net8.0\DL.deps.json
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\bin\Debug\net8.0\DL.dll
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\bin\Debug\net8.0\DL.pdb
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\bin\Debug\net8.0\TL.dll
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\bin\Debug\net8.0\TL.pdb
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\obj\Debug\net8.0\DL.csproj.AssemblyReference.cache
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\obj\Debug\net8.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\obj\Debug\net8.0\DL.AssemblyInfoInputs.cache
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\obj\Debug\net8.0\DL.AssemblyInfo.cs
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\obj\Debug\net8.0\DL.csproj.CoreCompileInputs.cache
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\obj\Debug\net8.0\DL.csproj.Up2Date
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\obj\Debug\net8.0\DL.dll
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\obj\Debug\net8.0\refint\DL.dll
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\obj\Debug\net8.0\DL.pdb
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\DL\obj\Debug\net8.0\ref\DL.dll

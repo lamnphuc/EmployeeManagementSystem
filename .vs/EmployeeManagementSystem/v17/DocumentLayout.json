@@ -1,0 +1,620 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\employeemanagementsystem\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MSI_SQLEXPRESS/EmployeeManagement/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\bl\\promotionbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|solutionrelative:bl\\promotionbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E089B-BA1B-481B-B597-5325F99F14ED}|TL\\TL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\tl\\promotiontransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702E089B-BA1B-481B-B597-5325F99F14ED}|TL\\TL.csproj|solutionrelative:tl\\promotiontransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\dl\\promotiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|solutionrelative:dl\\promotiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\employeemanagementsystem\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\employeemanagementsystem\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\employeemanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\dl\\dashboarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|solutionrelative:dl\\dashboarddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\dl\\addemployeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|solutionrelative:dl\\addemployeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\bl\\dashboardbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|solutionrelative:bl\\dashboardbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\dl\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|solutionrelative:dl\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\dl\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|solutionrelative:dl\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E089B-BA1B-481B-B597-5325F99F14ED}|TL\\TL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\tl\\employeeimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702E089B-BA1B-481B-B597-5325F99F14ED}|TL\\TL.csproj|solutionrelative:tl\\employeeimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E089B-BA1B-481B-B597-5325F99F14ED}|TL\\TL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\tl\\dashboardtranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702E089B-BA1B-481B-B597-5325F99F14ED}|TL\\TL.csproj|solutionrelative:tl\\dashboardtranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E089B-BA1B-481B-B597-5325F99F14ED}|TL\\TL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\tl\\addemployeetranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702E089B-BA1B-481B-B597-5325F99F14ED}|TL\\TL.csproj|solutionrelative:tl\\addemployeetranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\dl\\employeeimportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|solutionrelative:dl\\employeeimportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\bl\\employeeimportbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|solutionrelative:bl\\employeeimportbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\bl\\printbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|solutionrelative:bl\\printbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\dl\\printdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|solutionrelative:dl\\printdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\dl\\dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|solutionrelative:dl\\dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\bl\\addemployeebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|solutionrelative:bl\\addemployeebussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\bl\\forgetpasswordbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|solutionrelative:bl\\forgetpasswordbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\dl\\forgetpasswordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C690C846-A799-49B9-80BE-F44D05409F9F}|DL\\DL.csproj|solutionrelative:dl\\forgetpasswordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\employeemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\employeemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\employeemanagementsystem\\forgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\forgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\employeemanagementsystem\\forgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\forgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E089B-BA1B-481B-B597-5325F99F14ED}|TL\\TL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\tl\\forgetpasswordtranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702E089B-BA1B-481B-B597-5325F99F14ED}|TL\\TL.csproj|solutionrelative:tl\\forgetpasswordtranfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\employeemanagementsystem\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\bl\\loginbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6201E0CB-29BB-422F-805D-60924B17BD36}|BL\\BL.csproj|solutionrelative:bl\\loginbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\employeemanagementsystem\\promotion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\promotion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\l\u1EADp tr\u00ECnh c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\employeemanagementsystem\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4739BE65-1E5D-4371-97B4-715857F3D8EF}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddEmployeeTranfer.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\TL\\AddEmployeeTranfer.cs",
+              "RelativeDocumentMoniker": "TL\\AddEmployeeTranfer.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\TL\\AddEmployeeTranfer.cs",
+              "RelativeToolTip": "TL\\AddEmployeeTranfer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:08:13.837Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PROMOTION.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\PROMOTION.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\PROMOTION.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\PROMOTION.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\PROMOTION.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:25:45.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\App.config",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\App.config",
+              "RelativeToolTip": "EmployeeManagementSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-23T12:51:40.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DASHBOARD.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\DASHBOARD.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\DASHBOARD.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\DASHBOARD.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\DASHBOARD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:38:53.688Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PromotionData.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\PromotionData.cs",
+              "RelativeDocumentMoniker": "DL\\PromotionData.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\PromotionData.cs",
+              "RelativeToolTip": "DL\\PromotionData.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAcwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:31:38.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkSpace.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\WorkSpace.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\WorkSpace.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\WorkSpace.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\WorkSpace.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:40:47.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MSI_SQLEXPRESS/EmployeeManagement/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-31T04:24:49.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PromotionTransfer.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\TL\\PromotionTransfer.cs",
+              "RelativeDocumentMoniker": "TL\\PromotionTransfer.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\TL\\PromotionTransfer.cs",
+              "RelativeToolTip": "TL\\PromotionTransfer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:31:06.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PromotionBussiness.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\PromotionBussiness.cs",
+              "RelativeDocumentMoniker": "BL\\PromotionBussiness.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\PromotionBussiness.cs",
+              "RelativeToolTip": "BL\\PromotionBussiness.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:34:58.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PROMOTION.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\PROMOTION.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\PROMOTION.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\PROMOTION.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\PROMOTION.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAewB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:09:25.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardData.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\DashboardData.cs",
+              "RelativeDocumentMoniker": "DL\\DashboardData.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\DashboardData.cs",
+              "RelativeToolTip": "DL\\DashboardData.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:30:27.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardBussiness.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\DashboardBussiness.cs",
+              "RelativeDocumentMoniker": "BL\\DashboardBussiness.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\DashboardBussiness.cs",
+              "RelativeToolTip": "BL\\DashboardBussiness.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:37:41.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DASHBOARD.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\DASHBOARD.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\DASHBOARD.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\DASHBOARD.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\DASHBOARD.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:38:46.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEmployeeData.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\AddEmployeeData.cs",
+              "RelativeDocumentMoniker": "DL\\AddEmployeeData.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\AddEmployeeData.cs",
+              "RelativeToolTip": "DL\\AddEmployeeData.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:00:03.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginData.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\LoginData.cs",
+              "RelativeDocumentMoniker": "DL\\LoginData.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\LoginData.cs",
+              "RelativeToolTip": "DL\\LoginData.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:18:00.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DL\\DataProvider.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\DataProvider.cs",
+              "RelativeToolTip": "DL\\DataProvider.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:34:02.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:39:54.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeImport.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\TL\\EmployeeImport.cs",
+              "RelativeDocumentMoniker": "TL\\EmployeeImport.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\TL\\EmployeeImport.cs",
+              "RelativeToolTip": "TL\\EmployeeImport.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:47:10Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardTranfer.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\TL\\DashboardTranfer.cs",
+              "RelativeDocumentMoniker": "TL\\DashboardTranfer.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\TL\\DashboardTranfer.cs",
+              "RelativeToolTip": "TL\\DashboardTranfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:29:53.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAAMEAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:38:11.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeImportData.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\EmployeeImportData.cs",
+              "RelativeDocumentMoniker": "DL\\EmployeeImportData.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\EmployeeImportData.cs",
+              "RelativeToolTip": "DL\\EmployeeImportData.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:47:50.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeImportBussiness.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\EmployeeImportBussiness.cs",
+              "RelativeDocumentMoniker": "BL\\EmployeeImportBussiness.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\EmployeeImportBussiness.cs",
+              "RelativeToolTip": "BL\\EmployeeImportBussiness.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:01:57.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PrintBussiness.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\PrintBussiness.cs",
+              "RelativeDocumentMoniker": "BL\\PrintBussiness.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\PrintBussiness.cs",
+              "RelativeToolTip": "BL\\PrintBussiness.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:55:47.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PrintData.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\PrintData.cs",
+              "RelativeDocumentMoniker": "DL\\PrintData.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\PrintData.cs",
+              "RelativeToolTip": "DL\\PrintData.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:43:12.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DL.csproj",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\DL.csproj",
+              "RelativeDocumentMoniker": "DL\\DL.csproj",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\DL.csproj",
+              "RelativeToolTip": "DL\\DL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T02:59:35.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddEmployeeBussiness.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\AddEmployeeBussiness.cs",
+              "RelativeDocumentMoniker": "BL\\AddEmployeeBussiness.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\AddEmployeeBussiness.cs",
+              "RelativeToolTip": "BL\\AddEmployeeBussiness.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAADwvxIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:19:12.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ForgetPasswordBussiness.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\ForgetPasswordBussiness.cs",
+              "RelativeDocumentMoniker": "BL\\ForgetPasswordBussiness.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\ForgetPasswordBussiness.cs",
+              "RelativeToolTip": "BL\\ForgetPasswordBussiness.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:46:18.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ForgetPassworData.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\ForgetPassworData.cs",
+              "RelativeDocumentMoniker": "DL\\ForgetPassworData.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\DL\\ForgetPassworData.cs",
+              "RelativeToolTip": "DL\\ForgetPassworData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:44:33.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Login.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\Login.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Login.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T02:53:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Login.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\Login.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:39:37.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ForgetPassword.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\ForgetPassword.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\ForgetPassword.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\ForgetPassword.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\ForgetPassword.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:21:26.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ForgetPassword.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\ForgetPassword.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\ForgetPassword.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\ForgetPassword.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\ForgetPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:18:54.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ForgetPasswordTranfer.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\TL\\ForgetPasswordTranfer.cs",
+              "RelativeDocumentMoniker": "TL\\ForgetPasswordTranfer.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\TL\\ForgetPasswordTranfer.cs",
+              "RelativeToolTip": "TL\\ForgetPasswordTranfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:42:44.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WorkSpace.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\WorkSpace.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\WorkSpace.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\WorkSpace.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\WorkSpace.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:06:49.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginBusiness.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\LoginBusiness.cs",
+              "RelativeDocumentMoniker": "BL\\LoginBusiness.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\BL\\LoginBusiness.cs",
+              "RelativeToolTip": "BL\\LoginBusiness.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:34:24.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PROMOTION.Designer.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\PROMOTION.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\PROMOTION.Designer.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\PROMOTION.Designer.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\PROMOTION.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:07:08.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u01A1 S\u1EDF D\u1EEF Li\u1EC7u\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:24:17.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

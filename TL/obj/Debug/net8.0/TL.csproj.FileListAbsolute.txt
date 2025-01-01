@@ -1,0 +1,12 @@
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\bin\Debug\net8.0\TL.deps.json
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\bin\Debug\net8.0\TL.dll
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\bin\Debug\net8.0\TL.pdb
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\obj\Debug\net8.0\TL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\obj\Debug\net8.0\TL.AssemblyInfoInputs.cache
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\obj\Debug\net8.0\TL.AssemblyInfo.cs
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\obj\Debug\net8.0\TL.csproj.CoreCompileInputs.cache
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\obj\Debug\net8.0\TL.dll
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\obj\Debug\net8.0\refint\TL.dll
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\obj\Debug\net8.0\TL.pdb
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\obj\Debug\net8.0\ref\TL.dll
+D:\Lập Trình Cơ Sở Dữ Liệu\EmployeeManagementSystem\TL\obj\Debug\net8.0\TL.csproj.AssemblyReference.cache
